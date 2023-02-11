@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there is Abyssun👋
+
+来自安徽的小菜鸡一枚，目前就读于商丘师范学院
 
 
-**Abyssun/Abyssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
