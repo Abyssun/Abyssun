@@ -25,3 +25,7 @@
 - 👀 会尝试上传我自己整理的一些笔记, 以及我自己做的一些安全相关的工具
 
 ![Abyssun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abyssun&include_all_commits=true&hide_border=true) 
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyssun&langs_count=8&theme=white&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=280" />
+</a>
