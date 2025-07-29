@@ -2,7 +2,7 @@
 
 ## About Me
 ```
-来自安徽的小菜鸡一枚，目前就读于商丘师范学院，ID @Abyssun
+来自安徽的小菜鸡一枚，，ID @Abyssun
 ```
 ## My project
 ```
