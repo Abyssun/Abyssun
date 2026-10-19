@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abyssun&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Exploring%20the%20Abyss%20of%20Code%20%26%20Security&descSize=18&descAlignY=65" width="100%" />
-</p>
+<h1 align="center">✨ Abyssun ✨</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%E6%9D%A5%E8%87%AA%E5%AE%89%E5%BE%BD%EF%BC%8C%E5%9C%A8%E6%B7%B1%E6%B8%8A%E9%87%8C%E6%8D%9E%E4%BB%A3%E7%A0%81%E7%9A%84%E5%AE%89%E5%85%A8%E7%88%B1%E5%A5%BD%E8%80%85;From+Anhui%2C+China.+Security+enthusiast+%26+full-stack+explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E4%B8%BA%E4%B8%96%E7%95%8C%E4%B8%8A%E6%89%80%E6%9C%89%E7%9A%84%E7%BE%8E%E5%A5%BD%E8%80%8C%E6%88%98;%E5%90%91%E7%9D%80%E6%98%9F%E8%BE%B0%E4%B8%8E%E6%B7%B1%E6%B8%8A;%E6%84%BF%E6%AD%A4%E8%A1%8C%EF%BC%8C%E7%BB%88%E6%8A%B5%E7%BE%A4%E6%98%9F" alt="Slogans" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%E6%9D%A5%E8%87%AA%E5%AE%89%E5%BE%BD%EF%BC%8C%E5%9C%A8%E6%B7%B1%E6%B8%8A%E9%87%8C%E6%8D%9E%E4%BB%A3%E7%A0%81%E7%9A%84%E5%AE%89%E5%85%A8%E7%88%B1%E5%A5%BD%E8%80%85;From+Anhui%2C+China.+Security+enthusiast+%26+full-stack+explorer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -54,21 +56,19 @@ motto: 会尝试上传我自己整理的一些笔记，以及我自己做的一�
 
 ## 📊 GitHub Stats / 统计
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abyssun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Abyssun&theme=tokyonight&hide_border=true&locale=cn" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyssun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abyssun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyssun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ## 🐍 Contribution Snake / 贪吃蛇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abyssun/Abyssun/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abyssun/Abyssun/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Abyssun/Abyssun/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Abyssun/Abyssun@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Abyssun/Abyssun@output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://cdn.jsdelivr.net/gh/Abyssun/Abyssun@output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 📫 Contact Me / 联系我
@@ -81,6 +81,4 @@ motto: 会尝试上传我自己整理的一些笔记，以及我自己做的一�
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-</p>
+<h3 align="center"><em>“愿此行，终抵群星。”</em></h3>
