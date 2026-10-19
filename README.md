@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%E6%9D%A5%E8%87%AA%E5%AE%89%E5%BE%BD%EF%BC%8C%E5%9C%A8%E6%B7%B1%E6%B8%8A%E9%87%8C%E6%8D%9E%E4%BB%A3%E7%A0%81%E7%9A%84%E5%AE%89%E5%85%A8%E7%88%B1%E5%A5%BD%E8%80%85;From+Anhui%2C+China.+Security+enthusiast+%26+full-stack+explorer" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abyssun&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
